@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 # Privacy Policy for [Khidma]
 
 **Effective Date**: [19-11-2024]
